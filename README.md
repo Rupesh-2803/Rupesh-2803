@@ -1,6 +1,6 @@
 # Rupeshkumar R — GitHub Profile README
 
-````md
+
 <h1 align="center">Hi 👋, I'm Rupeshkumar R</h1>
 
 <p align="center">
