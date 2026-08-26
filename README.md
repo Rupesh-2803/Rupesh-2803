@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
   <!-- Dynamic Typing SVG Banner -->
   <a href="https://github.com/Rupesh-2803">
