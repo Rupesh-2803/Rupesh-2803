@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  <!-- Dynamic Typing SVG Banner -->
+  <!-- Dynamic Typing SVG Banner --> 
   <a href="https://github.com/Rupesh-2803">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rupeshkumar.R;Full+Stack+Developer;AI+%2F+ML+Engineer;Python+Developer" alt="Typing SVG" />
   </a>
